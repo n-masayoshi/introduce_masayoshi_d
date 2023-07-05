@@ -1,0 +1,2 @@
+# introduce_masayoshi_d
+職務経歴書の内容を保存するため
